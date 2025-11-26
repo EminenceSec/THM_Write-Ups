@@ -31,5 +31,3 @@ Feel free to explore the content, use it as a learning aid, or compare approache
 
 If you have suggestions, see ways to improve a write-up, or would like to discuss techniques, feel free to reach out or open an issue.  
 I'm always happy to learn, collaborate, and share knowledge with the community.
-
-Thanks for visiting — and happy hacking! ⚡
